@@ -9,3 +9,6 @@ Here are some things I like:
 - Open source software
 - GitHub Actions
 - **Coffee**
+
+
+![A dog](/static/images/dog.jpg)
